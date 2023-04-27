@@ -1,0 +1,29 @@
+{
+  "name": "cypress-api-testing",
+  "version": "1.0.0",
+  "description": "A repo for automating APIs in Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brad4au57/cypress-api-testing.git"
+  },
+  "keywords": [
+    "Cypress",
+    "JavaScript",
+    "API",
+    "Testing",
+    "QA"
+  ],
+  "author": "Brad Bales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brad4au57/cypress-api-testing/issues"
+  },
+  "homepage": "https://github.com/brad4au57/cypress-api-testing#readme",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}

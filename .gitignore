@@ -1,0 +1,7 @@
+# Node Modules Folder
+node_modules
+
+# Cypress Folders
+cypress/downloads
+cypress/videos
+cypress/screenshots
